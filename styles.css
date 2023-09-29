@@ -151,11 +151,11 @@ grid-template-columns: repeat(6, 1fr);
 
 #profile-link {
   font-size: 1.6rem;
+  font-weight: 200;
 }
 
  #profile-link:last-of-type {
   margin-left: 25px;
-   font-weight: 200;
 }
 
 footer {
