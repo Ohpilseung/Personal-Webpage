@@ -139,10 +139,8 @@ column-gap: 40px;
 }
 #sub-contact {
   font-size: 1.2rem;
-  padding-top: 10px;
-}
-#contacts a { 
   font-weight: 200;
+  padding-top: 10px;
 }
 
 #profile-link-container {
